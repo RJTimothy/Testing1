@@ -6,8 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     String asd;
-
-    JERRI BABI
+    String jeri;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
