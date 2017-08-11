@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
     String asd;
     String gitu_jer;
     String harus_di_push_push_kek_mereka;
+    Boolean jeri_di_phpin_dia;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
